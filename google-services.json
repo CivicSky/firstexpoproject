@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593096617808",
+    "project_id": "testproject-b48c4",
+    "storage_bucket": "testproject-b48c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593096617808:android:f385c0d0258ee9dbb58655",
+        "android_client_info": {
+          "package_name": "com.veluzaaron.TestProject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlOGFfqmgmm1wtoT8ZWHPuw2Uce7t9mm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
